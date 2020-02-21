@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 
 
-export class ColoredHeadingTwo extends Component {
+export class ColoredHeadingThree extends Component {
   static propTypes = {
     text: PropTypes.string,
     color: PropTypes.string
@@ -15,7 +15,7 @@ export class ColoredHeadingTwo extends Component {
   }
 }
 
-export class ColoredHeadingOne extends Component {
+export class ColoredHeadingFour extends Component {
   static propTypes = {
     text: PropTypes.string,
     color: PropTypes.string
