@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import { ColoredHeadingOne, ColoredHeadingTwo } from "colored-heading";
+import { ColoredHeadingOne, ColoredHeadingTwo } from "mike-test";
 
 export default class App extends Component {
   render() {
